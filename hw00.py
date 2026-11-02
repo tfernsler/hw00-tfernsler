@@ -10,5 +10,5 @@ def main():
 	print('''what a nice "day!"''');
 
 # Run main if this script is being run 
-if __name__ == '__main__':
+if __name__ == '__main__':-
 	main()
